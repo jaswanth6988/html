@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+    <title>this is my today html practice</title>
+    <head>
+        <body>
+            <center>
+            <h3><big><mark>this is image of html</mark></big></h3>
+<img src="C:\Users\ganes\Downloads\hi.JFIF" width="300" height="300"/>
+<p>Cricket is a very interesting and engaging outdoor game. It is known as the gentleman’s game and is enjoyed all over the world.<br/> It creates a sense of discipline, team-spirit, fellow-feelings, and the spirit of sportsmanship among the players</p>
+<p>. Played between two teams of 11 members on each side, the game starts with a toss to decide the batting and the bowling team.<br/> The match between our school and the rival team was very exciting.Our team won the toss and our captain elected to bat first.<br/> Our team played and scored 180 in 20 overs. It was a good inning and amazing to watch.</p>
+<p></p>
+<p></p><br/><br/><br/>
+<h3><big><mark>this is video of html</mark></big></h3>
+  <video controls >
+    <source img src="C:\Users\ganes\Downloads\WhatsApp Video 2022-10-08 at 09.26.08.mp4">
+  </video>  
+            </center> 
+  <br><br/>
+  <p></p>
+  <h3><big><mark>this is  a form of  html</mark></big></h3>
+
+  <form>
+    Enter your name:
+    <input type="text" name="text" placeholder="enter your name"/><br/><br/>
+    Enter your age:
+    <input type="number" name="age" placeholder="enter your age"><br/><br/>
+    Enter your email id:
+    <input type="email" name="email" placeholder="enter your email" /><br/><br/>
+    Enter your email password:
+    <input type="password" name="password" placeholder="password"/><br/><br/>
+    <label for="gender">Gender</label>
+    <input type="radio" id="gender" name="gender" value="male"/>male
+    <input type="radio" id="gender" name="gender" value="female"/>female<br/><br/>
+    <p>which programming  language should you know?</p>
+    <select name="dropdown">
+      <option value="c language">c language</option>
+      <option value="c ++">c ++</option>
+      <option value="javascript">javascript</option>
+      <option value="phyton">phyton</option>
+    </select>
+    <p></p>
+<p>which cricket team would you like?</p>
+<input type="checkbox" name="India" value="on"/>India<br/>
+<input type="checkbox" name="Austrilia" value="on"/>Austrilia<br/>
+<p></p>
+<a href="secondwebpage.html"></a><input type="button" name="submit" value="submit"></form></a><Br/><br/>
+
+  </form>
+
+
+
+        </body>
+    </head>
+</html>
